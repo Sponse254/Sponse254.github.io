@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+.menu {
+	padding-right:30px;
+	margin-top:-90px;
+	}
+
+.menu ul {
+	list-style:none;
+	}
+.menu li {
+	display:block;
+	font-size:16px;
+	color:#fff;	
+	}
+.jumbotron {
+	
+	margin-top:100px;
+	height:auto;
+	background-color:#004848;
+	}
+.jumbotron p {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:136px;
+	color:#FFF;
+	margin-left:100px;
+	margin-right:0px;
+	padding-bottom:20px;
+	}
+.context img {
+	padding-bottom:10px;
+	border-radius:50%;
+	margin-left:20px;
+		
+	}
+.context h1 {
+	font-size:36px;
+	color:#fff;
+	margin-top:-350px;
+	width:0px;
+	}
+.context h2 {
+	font-size:36px;
+	color:#fff;
+	margin-top:-60px;
+	width:0px;
+	}
+.context h3 {
+	font-size:36px;
+	color:#fff;
+	margin-top:235px;
+	width:0px;
+	}
+	.context h4 {
+	font-size:36px;
+	color:#fff;
+	margin-top:-350px;
+	width:0px;
+	}
+	.context h5 {
+	font-size:36px;
+	color:#fff;
+	margin-top:-50px;
+	width:0px;
+	}
+	.context h6 {
+	font-size:36px;
+	color:#fff;
+	margin-top:230px;
+	width:0px;
+	}
+.context h1 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:500px;
+	}
+
+.context h2 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:140px;
+}
+
+.context h3 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:140px;
+}
+
+.context h4 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:160px;
+}
+
+.context h5 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:530px;
+}
+
+.context h6 span {  
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   margin-left:140px;
+}
+
+span:hover {
+	border-radius:30%;
+	font-size:18px;
+	font-weight:100px;
+		
+	}
